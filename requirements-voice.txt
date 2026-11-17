@@ -1,0 +1,5 @@
+# Optional original Proton microphone and speech output.
+-r requirements.txt
+SpeechRecognition==3.14.3
+PyAudio==0.2.14
+pyttsx3==2.99

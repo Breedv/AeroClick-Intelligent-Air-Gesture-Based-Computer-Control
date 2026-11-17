@@ -1,0 +1,29 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local databases and user data
+*.sqlite
+*.sqlite3
+*.db
+data/
+instance/
+
+# IDE
+.vscode/
+.idea/
+
+# Build files
+build/
+dist/
+*.egg-info/

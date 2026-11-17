@@ -1,0 +1,180 @@
+{
+  "source_archive": "Gesture-Controlled-Virtual-Mouse-main-without vnv.zip",
+  "notes": "Original code/assets extracted; Git metadata and caches excluded. No virtual environment supplied.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "original_sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b",
+      "original_bytes": 66,
+      "status": "unchanged"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "original_sha256": "0c8d64f29fb4536513653bf8c97da30f3340e2041b91c8952db1515d6b23a7b3",
+      "original_bytes": 834,
+      "status": "unchanged"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "original_sha256": "1f48c52f209a971b8e7eae4120144d28fcf8ee38a7778a7b4d8cf1ab356617d2",
+      "original_bytes": 595,
+      "status": "unchanged"
+    },
+    {
+      "path": ".gitignore",
+      "original_sha256": "93e3603800236871206747b5a6be7b3ba23eb08944c7689286c0fbdf1904c00e",
+      "original_bytes": 47,
+      "status": "updated"
+    },
+    {
+      "path": ".vscode/settings.json",
+      "original_sha256": "884757b50e03ce507c59bc14359408635331cc660eedd215c95c50136aa91d56",
+      "original_bytes": 202,
+      "status": "updated"
+    },
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "original_sha256": "88504558eb3470566208af69870487d373e6687575e8c9b9863f517f16309d81",
+      "original_bytes": 5202,
+      "status": "unchanged"
+    },
+    {
+      "path": "LICENSE",
+      "original_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "original_bytes": 35149,
+      "status": "unchanged"
+    },
+    {
+      "path": "README.md",
+      "original_sha256": "898efb176e55cfe4e4fb1cc2551a7d54b4015248634695a72dde9b5c457c5bf9",
+      "original_bytes": 12189,
+      "status": "updated"
+    },
+    {
+      "path": "requirements.txt",
+      "original_sha256": "f42b33ed01932d416d88fbfd6a330708520dced7848432a45145874d38e0248e",
+      "original_bytes": 209,
+      "status": "updated"
+    },
+    {
+      "path": "src/app.py",
+      "original_sha256": "48ccc27ff86a4dcbb3285d20f33b3e97dc5855506313ad3ea1feb6754b67d75c",
+      "original_bytes": 1996,
+      "status": "updated"
+    },
+    {
+      "path": "src/calib_images/checkerboard/left01.jpg",
+      "original_sha256": "9621899098adffa1440c8264606bb7be535ccfd9ad126ae8e0bd9b0c5a5b8676",
+      "original_bytes": 27908,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/calib_images/checkerboard/left02.jpg",
+      "original_sha256": "0a974bc80e733f3acd7eac9e42c7dd53e5c3718b53d9c7a44857d5c5e06da352",
+      "original_bytes": 28556,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/calib_images/checkerboard/left03.jpg",
+      "original_sha256": "20286560409c116d58564f66a39c0421694775861f30361fea28736c376cca7e",
+      "original_bytes": 29396,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/calib_images/checkerboard/left04.jpg",
+      "original_sha256": "b490599dccfbfe5eb56d33363415b02227a9548ab8c9b8e7b05d3580e97266d9",
+      "original_bytes": 25150,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/calib_images/checkerboard/left05.jpg",
+      "original_sha256": "8a598ad5b940245babda78cd45df039b5000d5c188d59bf81dc6ae7bcb26dc25",
+      "original_bytes": 28547,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/calib_images/test.yaml",
+      "original_sha256": "45e812d9300e9af6e084962d145b3603b7788e1556b9969dc9b7640b48f75e93",
+      "original_bytes": 418,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/camera_test.py",
+      "original_sha256": "3e0d264ac54ade193a02b9ba54ee6ad1fa3596ae30c53dae10c450c4a628915e",
+      "original_bytes": 293,
+      "status": "updated"
+    },
+    {
+      "path": "src/deeptrace_activity_diagram.svg",
+      "original_sha256": "0c3b255c9b328f56b8da0d55ad3177e6257f0fde0162d56a19ae1cfac278abfa",
+      "original_bytes": 30030,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/diagnose_camera.py",
+      "original_sha256": "c214bd4dd8f0154fc28a01721cae73823a05cd0f88b2c912c9930824f0901432",
+      "original_bytes": 4130,
+      "status": "updated"
+    },
+    {
+      "path": "src/Gesture_Controller.py",
+      "original_sha256": "e99e03cb06a4238627fe30e74bcefa1b47ebfc4a443ecb62c4c559bc52c6c9ef",
+      "original_bytes": 4420,
+      "status": "updated"
+    },
+    {
+      "path": "src/Gesture_Controller_Gloved.py",
+      "original_sha256": "670e32088ba32e200d29c42c55fd1263d3d2662397b5fc3f3e38649ee31d5ab1",
+      "original_bytes": 21080,
+      "status": "updated"
+    },
+    {
+      "path": "src/Proton.py",
+      "original_sha256": "085bead8bb9cd0a905c4e12279bf94743e65686e00ef49b94f0cb2c2b2034277",
+      "original_bytes": 7658,
+      "status": "updated"
+    },
+    {
+      "path": "src/tempCodeRunnerFile.py",
+      "original_sha256": "2bd49d858f22221e6a5f9f08b2dcf97d632b9bdb57200128e1798c1f61473caf",
+      "original_bytes": 462,
+      "status": "archived as reference"
+    },
+    {
+      "path": "src/web/css/jquery.convform.css",
+      "original_sha256": "2bbeb07be91495706dc04a64df87f8681a0580b0fef46b810f0cab314aa17e41",
+      "original_bytes": 5692,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/web/images/icon.png",
+      "original_sha256": "e8fbbba6cd818549b643162ecec8b8fe878e50f9e648f36d89c8ca254213a9c0",
+      "original_bytes": 106573,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/web/images/purple-gradient-bar.png",
+      "original_sha256": "e451a07b0c815509b1613b67cbbe29d5a3ce4fe14889698516e478541589161e",
+      "original_bytes": 47174,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/web/images/purple-gradient.jpg",
+      "original_sha256": "99a558bbc424a10edc0f55d3d63096d0ef84c4340f41b830d56137a2ee47bb52",
+      "original_bytes": 53192,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/web/index.html",
+      "original_sha256": "9d13c9121edef4404c7f145ed7eaedb09f56613ce8ee188c5d2c20ea110fe3d8",
+      "original_bytes": 1501,
+      "status": "unchanged"
+    },
+    {
+      "path": "src/web/js/main.js",
+      "original_sha256": "eb2488a8bb35be96ca4cd5aa5bc09eb09261ca6b6e17ff282fc0b2d7be4e836d",
+      "original_bytes": 1647,
+      "status": "unchanged"
+    }
+  ]
+}

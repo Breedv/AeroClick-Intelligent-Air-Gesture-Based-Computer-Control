@@ -1,0 +1,8 @@
+# Verified on CPython 3.10 x64 / Windows. Do not install a second OpenCV wheel.
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+numpy==1.26.4
+PySide6==6.8.3
+PyAutoGUI==0.9.54
+pycaw==20240210
+screen-brightness-control==0.24.2
